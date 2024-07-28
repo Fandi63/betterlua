@@ -1,0 +1,1 @@
+lua2exe.exe betterlua.lua
